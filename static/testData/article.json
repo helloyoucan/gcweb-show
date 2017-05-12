@@ -1,0 +1,12 @@
+{
+	"id": "004",
+	"title": "Webpack-dev-server结合后端服务器的热替换配置",
+	"time": "2017-10-08",
+	"state": "1",
+	"tagSet": [{
+		"name":"SCSS"
+	},{
+		"name":"webpack"
+	}],
+	"mdContent": "Webpack是一个模块加载器，这里所谓模块其实就是项目中用到javascript、coffeescript、css、less、jsx以及图片等等资源，Webpack采用不同的loader将这些资源加载后打包，然后输出打包后的文件，打包后的文件可以是一个或多个js文件，也可以根据需要分别打包，比如将所有css文件单独输出。"
+}

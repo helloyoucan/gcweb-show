@@ -1,0 +1,276 @@
+[
+	{
+		"id": "001",
+		"name": "课程名",
+		"description": "简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介",
+		"prompt": "课程提示课程提示课程提示课程提示课程提示课程提示课程提示课程提示课程提示课程提示",
+		"imgUrl": "../static/img/001.jpg",
+		"sections": [
+			{
+				"id": "chapterId001",
+				"order":0,
+				"name": "章名0",
+				"period":"80",
+				"description": "章节描述章节描述章节描述章节描述章节描述章节描述章节描述章节描述章节描述章节描述章节描述章节描述章节描述章节描述章节描述",
+				"tags": [
+					{"name":"HTML"},
+					{"name":"CSS"}
+				]
+			}, {
+				"id": "chapterId002",
+				"order":1,
+				"name": "章名1",
+				"period":"50",
+				"description": "章节描述",
+				"tags": [
+					{"name":"webpack"},
+					{"name":"npm"}
+				]
+			}, {
+				"id": "chapterId003",
+				"order":2,
+				"name": "章名2",
+				"period":"50",
+				"description": "章节描述",
+				"tags": [
+					{"name":"SCSS"},
+					{"name":"HTML"}
+				]
+			}
+		]
+	},{
+		"id": "002",
+		"name": "课程名",
+		"description": "简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介",
+		"prompt": "课程提示课程提示课程提示课程提示课程提示课程提示课程提示课程提示课程提示课程提示",
+		"imgUrl": "../static/img/002.jpg",
+		"sections": [
+			{
+				"id": "chapterId001",
+				"order":0,
+				"name": "章名0",
+				"period":"80",
+				"description": "章节描述章节描述章节描述章节描述章节描述章节描述章节描述章节描述章节描述章节描述章节描述章节描述章节描述章节描述章节描述",
+				"tags": [
+					{"name":"HTML"},
+					{"name":"CSS"}
+				]
+			}, {
+				"id": "chapterId002",
+				"order":1,
+				"name": "章名1",
+				"period":"50",
+				"description": "章节描述",
+				"tags": [
+					{"name":"webpack"},
+					{"name":"npm"}
+				]
+			}, {
+				"id": "chapterId003",
+				"order":2,
+				"name": "章名2",
+				"period":"50",
+				"description": "章节描述",
+				"tags": [
+					{"name":"SCSS"},
+					{"name":"HTML"}
+				]
+			}
+		]
+	},{
+		"id": "003",
+		"name": "课程名",
+		"description": "简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介",
+		"prompt": "课程提示课程提示课程提示课程提示课程提示课程提示课程提示课程提示课程提示课程提示",
+		"imgUrl": "../static/img/003.jpg",
+		"sections": [
+			{
+				"id": "chapterId001",
+				"order":0,
+				"name": "章名0",
+				"period":"80",
+				"description": "章节描述章节描述章节描述章节描述章节描述章节描述章节描述章节描述章节描述章节描述章节描述章节描述章节描述章节描述章节描述",
+				"tags": [
+					{"name":"HTML"},
+					{"name":"CSS"}
+				]
+			}, {
+				"id": "chapterId002",
+				"order":1,
+				"name": "章名1",
+				"period":"50",
+				"description": "章节描述",
+				"tags": [
+					{"name":"webpack"},
+					{"name":"npm"}
+				]
+			}, {
+				"id": "chapterId003",
+				"order":2,
+				"name": "章名2",
+				"period":"50",
+				"description": "章节描述",
+				"tags": [
+					{"name":"SCSS"},
+					{"name":"HTML"}
+				]
+			}
+		]
+	},{
+		"id": "004",
+		"name": "课程名",
+		"description": "简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介",
+		"prompt": "课程提示课程提示课程提示课程提示课程提示课程提示课程提示课程提示课程提示课程提示",
+		"imgUrl": "../static/img/004.jpg",
+		"sections": [
+			{
+				"id": "chapterId001",
+				"order":0,
+				"name": "章名0",
+				"period":"80",
+				"description": "章节描述章节描述章节描述章节描述章节描述章节描述章节描述章节描述章节描述章节描述章节描述章节描述章节描述章节描述章节描述",
+				"tags": [
+					{"name":"HTML"},
+					{"name":"CSS"}
+				]
+			}, {
+				"id": "chapterId002",
+				"order":1,
+				"name": "章名1",
+				"period":"50",
+				"description": "章节描述",
+				"tags": [
+					{"name":"webpack"},
+					{"name":"npm"}
+				]
+			}, {
+				"id": "chapterId003",
+				"order":2,
+				"name": "章名2",
+				"period":"50",
+				"description": "章节描述",
+				"tags": [
+					{"name":"SCSS"},
+					{"name":"HTML"}
+				]
+			}
+		]
+	},{
+		"id": "005",
+		"name": "课程名",
+		"description": "简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介",
+		"prompt": "课程提示课程提示课程提示课程提示课程提示课程提示课程提示课程提示课程提示课程提示",
+		"imgUrl": "../static/img/005.jpg",
+		"sections": [
+			{
+				"id": "chapterId001",
+				"order":0,
+				"name": "章名0",
+				"period":"80",
+				"description": "章节描述章节描述章节描述章节描述章节描述章节描述章节描述章节描述章节描述章节描述章节描述章节描述章节描述章节描述章节描述",
+				"tags": [
+					{"name":"HTML"},
+					{"name":"CSS"}
+				]
+			}, {
+				"id": "chapterId002",
+				"order":1,
+				"name": "章名1",
+				"period":"50",
+				"description": "章节描述",
+				"tags": [
+					{"name":"webpack"},
+					{"name":"npm"}
+				]
+			}, {
+				"id": "chapterId003",
+				"order":2,
+				"name": "章名2",
+				"period":"50",
+				"description": "章节描述",
+				"tags": [
+					{"name":"SCSS"},
+					{"name":"HTML"}
+				]
+			}
+		]
+	},{
+		"id": "006",
+		"name": "课程名",
+		"description": "简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介",
+		"prompt": "课程提示课程提示课程提示课程提示课程提示课程提示课程提示课程提示课程提示课程提示",
+		"imgUrl": "../static/img/006.jpg",
+		"sections": [
+			{
+				"id": "chapterId001",
+				"order":0,
+				"name": "章名0",
+				"period":"80",
+				"description": "章节描述章节描述章节描述章节描述章节描述章节描述章节描述章节描述章节描述章节描述章节描述章节描述章节描述章节描述章节描述",
+				"tags": [
+					{"name":"HTML"},
+					{"name":"CSS"}
+				]
+			}, {
+				"id": "chapterId002",
+				"order":1,
+				"name": "章名1",
+				"period":"50",
+				"description": "章节描述",
+				"tags": [
+					{"name":"webpack"},
+					{"name":"npm"}
+				]
+			}, {
+				"id": "chapterId003",
+				"order":2,
+				"name": "章名2",
+				"period":"50",
+				"description": "章节描述",
+				"tags": [
+					{"name":"SCSS"},
+					{"name":"HTML"}
+				]
+			}
+		]
+	},{
+		"id": "007",
+		"name": "课程名",
+		"description": "简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介简介",
+		"prompt": "课程提示课程提示课程提示课程提示课程提示课程提示课程提示课程提示课程提示课程提示",
+		"imgUrl": "../static/img/007.jpg",
+		"sections": [
+			{
+				"id": "chapterId001",
+				"order":0,
+				"name": "章名0",
+				"period":"80",
+				"description": "章节描述章节描述章节描述章节描述章节描述章节描述章节描述章节描述章节描述章节描述章节描述章节描述章节描述章节描述章节描述",
+				"tags": [
+					{"name":"HTML"},
+					{"name":"CSS"}
+				]
+			}, {
+				"id": "chapterId002",
+				"order":1,
+				"name": "章名1",
+				"period":"50",
+				"description": "章节描述",
+				"tags": [
+					{"name":"webpack"},
+					{"name":"npm"}
+				]
+			}, {
+				"id": "chapterId003",
+				"order":2,
+				"name": "章名2",
+				"period":"50",
+				"description": "章节描述",
+				"tags": [
+					{"name":"SCSS"},
+					{"name":"HTML"}
+				]
+			}
+		]
+	}
+]
