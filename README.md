@@ -1,6 +1,6 @@
 # gcweb-show
 
-> 一个基于vue-cli修改的多页面网站,使用了vue+vue-resource+element-ui+markdownjs开发的网站
+> 一个基于vue-cli修改的多页面网站,使用了vue+vue-resource+element-ui+markdownjs开发的网站      
 >预览地址：http://123.207.77.245:8090/homePage.html (因为是腾讯云的学生主机，所有很慢...)
 ## Build Setup
 
